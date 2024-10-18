@@ -1,6 +1,6 @@
 module.exports = options => ({
   siteMetadata: {
-    title: `Gatsby Theme Instagram`,
+    title: `Theme Instagram`,
   },
   plugins: [
     `gatsby-plugin-theme-ui`,
